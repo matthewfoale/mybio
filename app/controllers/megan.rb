@@ -19,21 +19,7 @@ render :text =>
             }
 
        			     ]
-
- "HELLO MEGAN Its SCHOOL MONDAY YAY !!!!"
-
      }'
-
-
-
-
- "dlgjdfljlgl"
-
-
-
-
-
-
 
 
   end
