@@ -12,7 +12,7 @@ render :text =>
           "Name":"MATTHEW"
             },
             {
-          "Age":"13"
+          "Age":"14 this Year!"
             },
             {
           "Height":"165cm"
@@ -20,14 +20,8 @@ render :text =>
 
        			     ]
 
- "HELLO MEGAN Its SCHOOL MONDAY YAY !!!!"
 
      }'
-
-
-
-
- 
 
 
 
