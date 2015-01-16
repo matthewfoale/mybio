@@ -1,6 +1,6 @@
 Mybio::Application.routes.draw do
   get "home/index"
-  resources :bios
+  #resources :bios
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
