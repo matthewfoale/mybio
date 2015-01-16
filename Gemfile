@@ -3,7 +3,7 @@ ruby '1.9.3'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.2'
 
-
+gem 'thin'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
