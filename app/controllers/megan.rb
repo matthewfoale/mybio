@@ -9,7 +9,7 @@ render :text =>
     '{
           "info":   [
            {
-          "Name":"MATTHEW"
+          "Name":"BATTHEW"
             },
             {
           "Age":"13"
